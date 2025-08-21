@@ -10,7 +10,7 @@ Firsst, check to see if ITM/Matlab is setup correctly.
 
 Run: https://github.com/nicklasorte/itm_matlab_example
 
-To run the example sim: open this file and press F5:
+To run the full simulation: open this file and press F5: https://github.com/nicklasorte/CBRS_Neighborhoods_EIRP/blob/main/init_github_CBRS_neighborhoods_2025_rev4.m
 
 You'll need to also download:
 
